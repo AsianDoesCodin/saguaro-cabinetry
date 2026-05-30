@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saguarocabinets.com/sitemap.xml
